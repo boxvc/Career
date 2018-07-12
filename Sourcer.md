@@ -1,10 +1,14 @@
-## Sourcing refers to the identification and uncovering of candidates (also known as talent) through proactive recruiting techniques.
+### What is sourcer?
+----
+#### Sourcing refers to the identification and uncovering of candidates (also known as talent) through proactive recruiting techniques.
 
 The evolution of recruiting has changed significantly over the last few decades. What started out as the responsibility of office managers to place job advertisements in newspapers or help wanted signs to attract potential employees, has now grown into a multi- billion dollar industry, where the identification of talent requires internal corporate recruitment departments or employment agencies solely focused on this transaction through both proactive and reactive recruiting techniques.
 
 Today the actual act of identifying candidates has even been split into dedicated roles and job functions, as where historically sourcing was the sole and inclusive responsibility of the recruiter along with other job responsibilities (examples):
 
-a) Screen and interview candidates against the position requirements b) Work closely with the hiring manager on hiring activities c) Help with the "offer letter" and interview process
+- Screen and interview candidates against the position requirements 
+- Work closely with the hiring manager on hiring activities 
+- Help with the "offer letter" and interview process
 
 A corporate recruiting department can now be made up of individuals dedicated to just the sourcing of candidates while recruiters can either focus on more account management responsibilities or leverage sourcing experts to supplement an additional volume of potential candidates.
 
